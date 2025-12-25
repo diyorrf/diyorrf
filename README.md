@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @diyorrf
 - 👀 Software Engineer
 - 🌱 DevOps
-- 📫 diyorintech@gmail.com
